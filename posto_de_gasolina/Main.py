@@ -194,6 +194,7 @@ for abastecimento in abastecimentos:
 
 
 
+
 # ATUALIZANDO O MESMO ARQUIVO TXT
 
 
