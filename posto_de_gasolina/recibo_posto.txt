@@ -27,7 +27,7 @@ SUV - Placa: STU-3344
 Combustível: Gasolina
 Valor: R$ 180.00
 
-Fiorino - Placa: VWX-5566
+BYD - Placa: VWX-5566
 Combustível: Etanol
 Valor: R$ 80.00
 

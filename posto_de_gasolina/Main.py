@@ -62,12 +62,12 @@ def gerar_recibo(abastecimentos):
 
 
 
-# MÉTODO PARA LER O RECIBO
+# METODO PARA LER O RECIBO
 
 def ler_recibo():
     with open("recibo_posto.txt", "r", encoding="utf-8") as arquivo:
 
-        # Lê todo o conteúdo do arquivo
+
         conteudo = arquivo.read()
 
     print("\n")
@@ -157,7 +157,7 @@ onibus = Veiculo("Ônibus", "JKL-3456")
 caminhao = Veiculo("Caminhão", "MNO-7890")
 pickup = Veiculo("Pickup", "PQR-1122")
 suv = Veiculo("SUV", "STU-3344")
-fiorino = Veiculo("Fiorino", "VWX-5566")
+byd = Veiculo("BYD", "VWX-5566")
 
 
 
@@ -168,7 +168,7 @@ abastecimento4 = Abastecimento(onibus, diesel, 300)
 abastecimento5 = Abastecimento(caminhao, diesel, 450)
 abastecimento6 = Abastecimento(pickup, gasolina, 120)
 abastecimento7 = Abastecimento(suv, gasolina, 180)
-abastecimento8 = Abastecimento(fiorino, etanol, 80)
+abastecimento8 = Abastecimento(byd, etanol, 80)
 
 
 
