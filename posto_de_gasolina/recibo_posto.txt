@@ -1,0 +1,38 @@
+========== POSTO DE GASOLINA ==========
+Carro - Placa: ABC-1234
+Combustível: Etanol
+Valor: R$ 50.00
+
+Moto - Placa: DEF-5678
+Combustível: Gasolina
+Valor: R$ 25.00
+
+Van Escolar - Placa: GHI-9012
+Combustível: Diesel
+Valor: R$ 200.00
+
+Ônibus - Placa: JKL-3456
+Combustível: Diesel
+Valor: R$ 300.00
+
+Caminhão - Placa: MNO-7890
+Combustível: Diesel
+Valor: R$ 450.00
+
+Pickup - Placa: PQR-1122
+Combustível: Gasolina
+Valor: R$ 120.00
+
+SUV - Placa: STU-3344
+Combustível: Gasolina
+Valor: R$ 180.00
+
+Fiorino - Placa: VWX-5566
+Combustível: Etanol
+Valor: R$ 80.00
+
+========================================
+Etanol: R$ 130.00
+Gasolina: R$ 325.00
+Diesel: R$ 950.00
+TOTAL DO DIA: R$ 1405.00
